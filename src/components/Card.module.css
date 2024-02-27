@@ -1,0 +1,15 @@
+.card { 
+    border: 1px solid gray;
+    border-radius:25px;
+    margin-bottom: 20px;
+}
+
+.title { 
+    background-color: cadetblue;
+    color: white;
+
+}
+
+.body { 
+    background-color: darkgoldenrod;
+}
